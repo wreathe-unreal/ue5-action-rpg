@@ -7,8 +7,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9882aa9a-81ea-4087-ae31-10680b95f6d5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ActionRL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ActionRL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ActionRL.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/ActionRL.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_RLCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_RLCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/TestLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/TestLevel.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ActionRL/Private/RLCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ActionRL/Private/RLCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ActionRL/Public/RLCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ActionRL/Public/RLCharacter.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +261,7 @@
       <updated>1690886558547</updated>
       <workItem from="1690886589249" duration="1000" />
       <workItem from="1690888346753" duration="1236000" />
-      <workItem from="1690889621198" duration="1114000" />
+      <workItem from="1690889621198" duration="6782000" />
     </task>
     <servers />
   </component>
